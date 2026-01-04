@@ -40,7 +40,7 @@ Built with modern web technologies:
 ## 📬 Contact
 
 - **LinkedIn**: [Abhinav Srivastava](https://linkedin.com/in/abhinavsri100)
-- **Email**: abhinav@example.com
+- **Email**: srivastavabhinav556@gmail.com
 
 ---
 *Built with ❤️ by Abhinav Srivastava*

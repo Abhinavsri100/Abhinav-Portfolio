@@ -74,7 +74,7 @@ function App() {
             <p style={{ color: 'var(--text-muted)', maxWidth: '500px', margin: '0 auto 2rem' }}>
               I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
             </p>
-            <a href="mailto:abhinav@example.com" className="btn btn-primary" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem' }}>
+            <a href="mailto:srivastavabhinav556@gmail.com" className="btn btn-primary" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem' }}>
               <Mail size={20} /> Say Hello
             </a>
           </div>
